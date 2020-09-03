@@ -1,5 +1,7 @@
 # Chess_AI_Bot
 An AI that can play chess against another AI or a Human
+## Collaborators:
+**Sriram Ayalavarapu, Sidharth Rao, Ashvath Suresh Kumar**
 
 **Important**
 *Go to the file below for our dataset containing the policies the AI requires.**
