@@ -1,13 +1,7 @@
-# Chess Bot - An Automated Chess Player
+# Chess Bot
+## An Automated Chess Player Using Reinforcement and a Double Deep Q-Learning Network
 
-# Using Reinforcement and a Double Deep
-
-# Q-Learning Network
-
-## Sriram Ayalavarapu, Sidharth Rao, Ashvath Suresh Kumar
-
-**Chess Bot - An Automated Chess Player Using Reinforcement and a Double Deep Q-Learning Network**  
-Sriram Ayalavarapu, Sidharth Rao, Ashvath Suresh Kumar  
+## [Sidharth Rao](https://github.com/sidharthmrao), [Sriram Ayalavarapu](https://github.com/GPixel3Ram), [Ashvath Suresh Kumar](https://github.com/ashvathsureshkumar)
   
 [1. Introduction](#1-introduction)  
     1.1 Inspiration:  
