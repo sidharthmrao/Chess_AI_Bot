@@ -4,9 +4,7 @@
 
 # Q-Learning Network
 
-## Sriram Ayalavarapu, Sidharth Rao, Ashvath Suresh
-
-## Kumar
+## Sriram Ayalavarapu, Sidharth Rao, Ashvath Suresh Kumar
 
 **Chess Bot - An Automated Chess Player Using Reinforcement and a Double Deep Q-Learning Network**  
 Sriram Ayalavarapu, Sidharth Rao, Ashvath Suresh Kumar  
