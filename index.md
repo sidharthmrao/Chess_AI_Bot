@@ -11,33 +11,33 @@
 **Chess Bot - An Automated Chess Player Using Reinforcement and a Double Deep Q-Learning Network**
 Sriram Ayalavarapu, Sidharth Rao, Ashvath Suresh Kumar
 
-1. Introduction
-    1.1 Inspiration:
-    1.2 Basic Project Description:
-2. Literature Review:
-    2.1 Bernstein Program:
-    2.2 Deep Thought:
-    2.3 Deep Blue:
-    2.4 Stockfish 11:
-3. Summary:
-    3.1 Base/Game Setup:
-       3.1.1 Moves:
-       3.1.2 Display:
-       3.1.3 Player Input:
-    3.2 Learning:
-       3.2.1 Q-Learning:
-       3.2.2 Neural Networks:
-       3.2.3 Deep Double Q-Learning:
-    3.3 Training:
-       3.3.1 Setup:
-       3.3.2 Speed Enhancements using GPU's:
-       3.3.3 Policy Management:
-4. Final Words and Conclusion:
-    4.1 Future Improvements:
-    4.2 Conclusion:
-5. Links and References
-    5.1 Citations:
-    5.2 Links:
+1. Introduction  
+    1.1 Inspiration:  
+    1.2 Basic Project Description:  
+2. Literature Review:  
+    2.1 Bernstein Program:  
+    2.2 Deep Thought:  
+    2.3 Deep Blue:  
+    2.4 Stockfish 11:  
+3. Summary:  
+    3.1 Base/Game Setup:  
+       3.1.1 Moves:  
+       3.1.2 Display:  
+       3.1.3 Player Input:  
+    3.2 Learning:  
+       3.2.1 Q-Learning:  
+       3.2.2 Neural Networks:  
+       3.2.3 Deep Double Q-Learning:  
+    3.3 Training:  
+       3.3.1 Setup:  
+       3.3.2 Speed Enhancements using GPU's:  
+       3.3.3 Policy Management:  
+4. Final Words and Conclusion:  
+    4.1 Future Improvements:  
+    4.2 Conclusion:  
+5. Links and References  
+    5.1 Citations:  
+    5.2 Links:  
 
 
 ## 1. Introduction
