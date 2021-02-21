@@ -9,7 +9,7 @@
 **Chess Bot - An Automated Chess Player Using Reinforcement and a Double Deep Q-Learning Network**  
 Sriram Ayalavarapu, Sidharth Rao, Ashvath Suresh Kumar  
   
-1. [Introduction](#1-introduction)  
+[1. Introduction](#1-introduction)  
     1.1 Inspiration:  
     1.2 Basic Project Description:  
 2. Literature Review:  
